@@ -1,7 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Open Voice Network"
+googleAnalytics = "UA-145111620-1"
+[wordCount]
+other = "{{ .WordCount }} words"
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

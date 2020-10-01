@@ -1,20 +1,57 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Voice assistance worthy of user trust.
+subtitle: >-
+  The Open Voice Network (OVN): bringing the value of standards to the
+  multi-platform, multi-device, multi-use world of voice assistance.
+image: /img/open-voice-network-branding_optimized.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: The importance of standards-based voice assistance.
+  text: >-
+    Artificial intelligence-enabled voice assistance will soon be a primary
+    interface to the internet, mobile apps, smart home and factories, and
+    enterprise applications. Voice assistance is the fastest-adopted consumer
+    technology ever. Yet today's consumers are showing increased hesitation to
+    venture into new usage – especially outside of today's proprietary
+    platforms. As we enter a multi-platform voice world, this raises critical
+    questions of open connection, equal access, and data privacy for today's
+    consumers and enterprises.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Introducing the Open Voice Network.
+  text: >-
+    Dedicated to bringing the value of standards to the multi-platform,
+    multi-device, multi-use world of voice assistance. The Open Voice Network
+    is:
+join:
+  - image: /img/ovn-open-voice-network-voice-assistance.png
+    text: >-
+      Comprised of experienced, practicing experts. Which means proposed
+      standards and practices will be based in today's realities and tomorrow's
+      feasibilities, and tested with an eye toward value-creating
+      implementation.
+  - image: /img/ovn-open-voice-network-consumer-trust.png
+    text: >-
+      Open, objective, and ethical. The OVN is a non-profit organization that
+      will seek – in open, rigorous exploration – to develop standards that
+      bring the most to the many. Where no one entity unfairly benefits from any
+      proposed standards or recommended guidelines.
+  - image: /img/ovn-open-voice-network-global-standards.png
+    text: >-
+      Results focused. We are milestone-driven and outcome-based. And we know
+      that standards development and governing body approval has merit only if
+      it is followed by broad industry adoption and implementation.
+about:
+  heading: For the Benefit of the Many
+  text: >-
+    Become an OVN member. Doing so allows you to advocate for and financially
+    support the mission of the Open Voice Network. Members will help shape the
+    future of commerce – in increasingly critical issues of technology,
+    competition, and commercial and personal information privacy.
+resources:
+  heading: Hello
+  text: >-
+    Become an OVN member. Doing so allows you to advocate for and financially
+    support the mission of the Open Voice Network. Members will help shape the
+    future of commerce – in increasingly critical issues of technology,
+    competition, and commercial and personal information privacy.
 ---
 

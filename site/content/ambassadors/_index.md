@@ -11,6 +11,10 @@ ambassadors:
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Peter-Bentsen.png
     text: >-
       Technology innovator, proud Dane and digital Viking, conversational AI and digital health ambassador, patient-, privacy- and security advocate; Peter Bentsen is driven to enable AI for Healthcare & Life sciences, in particular, to enable scale efficiencies, free up frontline resources to focus on patient-centric, outcomes-based healthcare.
+  - heading: Andre Costa, Director of Growth at Skilled Creative
+    imageUrl: /img/OVN-Ambassador-Headshots/OVN_Andre-Costa.png
+    text: >- 
+      Andre Costa educates executives, marketers, and emerging technology professionals on the power of Voice as a channel and as a user interface. He is driven to always communicate what's possible today, what's the long-term vision, and leading with creative leadership.
   - heading: Wijnand Jongen, CEO of Thuiswinkel.org, President of Ecommerce Europe
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Wijnand-Jongen.png
     text: >-

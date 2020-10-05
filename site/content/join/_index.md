@@ -4,7 +4,7 @@ image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 hardsell:
   - heading: Why Join The Open Voice Network
     description: >-
-      Opportunities to get involved within OVN Committees and Communities [https://openvoicenetwork.org/communities/] are open to those willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. 
+      Opportunities to get involved within OVN Committees and Communities are open to those willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. 
       
       Enterprises are invited to join OVN as Sponsoring Members by providing financial sponsorship as well as executive leadership.
   - heading: Open Voice Network Sponsoring Members
@@ -33,6 +33,10 @@ intro:
         and use case research by leading academic institutions and
         consultancies.
 testimonials:
+  - author: >-
+      Jon Stine | Executive Director of Open Voice Network
+    quote: >-
+      Enterprises that are active in standards development drive efficiencies, gain market access, and create competitive differentiation faster than those that don’t. From a market-share point of view, the question is whether you or your competitors will guide the future of the technology.
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
       Capgemini Consulting

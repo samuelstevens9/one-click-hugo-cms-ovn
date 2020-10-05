@@ -11,6 +11,10 @@
   {{ end }}
 </div>
 
+<div class="pt4 pb4">
+{{ partial "blockquote" (index .Params.testimonials 1) }}
+</div>
+
 {{ partial "table" .Params.pricing }}
 
 <div class="tc">
@@ -18,9 +22,7 @@
 </div>
 
 <div class="pt4 pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
+  {{ partial "blockquote" (index .Params.testimonials 0) }}
 </div>
 
 <!-- Full-width image -->
